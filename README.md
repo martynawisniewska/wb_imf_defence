@@ -1,6 +1,6 @@
 # Defence Spending and Redistribution
 
-Python code that retrieves and visualizes cross-country World Bank 
+Python code that uses and visualizes cross-country World Bank 
 indicators to extend an earlier political-economy research project:
 "What Political Factors Determine the Extent of Redistribution in Democratic Societies?"
 ,which extended the Romer–Meltzer–Richard model of redistribution with Effective
