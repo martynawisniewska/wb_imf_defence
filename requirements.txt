@@ -1,5 +1,4 @@
 wbgapi
-imfp
 pandas
 matplotlib
 seaborn
